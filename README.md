@@ -1,4 +1,4 @@
-## Hi, I´m Elisabeth 👋
+## Hi, I'm Elisabeth 👋
 
 🎓 I’m currently studying Front-End Development at Noroff Online School.
 <hr>
