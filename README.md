@@ -4,7 +4,7 @@
 <br>
 :norway: I'm norwegian and living close to Bergen. 
 <br>
-:deciduous_tree: When I'm not in front of a computer, you can find me in the nature
+:deciduous_tree: When I'm not in front of a computer, you can find me outdoors
 <br>
 
 <hr>
