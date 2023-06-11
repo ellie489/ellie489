@@ -1,4 +1,4 @@
-## ![image](https://github.com/ellie489/Project-Exam-1/blob/main/images/Intro.png)
+## ![image](https://github.com/ellie489/ellie489/blob/main/Skjermbilde%202023-06-11%20kl.%2011.09.42-min.png)
 
 🎓 I’m currently studying Front-End Development at Noroff Online School.
 <hr>
