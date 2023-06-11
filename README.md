@@ -1,4 +1,4 @@
-## Hi, I'm Elisabeth 👋
+## ![image](https://github.com/ellie489/Project-Exam-1/blob/main/images/Intro.png)
 
 🎓 I’m currently studying Front-End Development at Noroff Online School.
 <hr>
