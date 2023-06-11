@@ -1,6 +1,12 @@
 ## ![image](https://github.com/ellie489/ellie489/blob/main/Skjermbilde%202023-06-11%20kl.%2011.09.42-min.png)
 
 🎓 I’m currently studying Front-End Development at Noroff Online School.
+<br>
+:norway: I'm norwegian and living close to Bergen. 
+<br>
+:deciduous_tree: When I'm not in front of a computer, you can find me in the nature
+<br>
+
 <hr>
 
 ### Languages and Tools: 
