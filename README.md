@@ -9,7 +9,6 @@
 <hr>
 
 ## [Check out my portfolio website](https://elisabethhope.netlify.app/)
-<hr>
 
 ### Languages and Tools: 
 
