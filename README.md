@@ -1,4 +1,4 @@
-## ![image](https://github.com/ellie489/ellie489/blob/main/Welcome%20to%20my%20Github%2C%20My%20name%20is%20Elisabeth%20Hope%20(1920%20x%20700%20px).svg)
+## ![image](https://github.com/ellie489/ellie489/blob/main/Welcome%20to%20my%20Github%2C%20My%20name%20is%20Elisabeth%20Hope%20(1920%20x%20700%20px).png)
 🎓 I’m a Front-End Developer graduating this summer from Noroff Online School.
 <br>
 :norway: I'm a norwegian based in Bergen. 
