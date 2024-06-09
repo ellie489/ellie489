@@ -8,6 +8,9 @@
 :star_struck: Im always interested in learning new things and improving, and I love to create something useful and helpful for others. 
 <hr>
 
+## [Check out my portfolio website](https://elisabethhope.netlify.app/)
+<hr>
+
 ### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
